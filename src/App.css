@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.BgImgHomeFirst{
+  background-image: url("./Assets/Images/OfficeBG1.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat
+}
+.BgImgHomeSec{
+  background-image: url("./Assets/Images/OfficeBG2.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat
+}
+.BgImgHomeThird{
+  background-image: url("./Assets/Images/OfficeBG3.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat
+}
