@@ -1,8 +1,8 @@
 import './App.css';
 import { Grid, Paper, styled } from '@mui/material';
-import EmployeePersonalInfo from './Comonents/Employee/EmployeePersonalInfo';
-import EmployeeOfficeDetails from './Comonents/Employee/EmployeeOfficeDetails';
-import EmployeeOtherDetails from './Comonents/EmployeeOtherDetails';
+import EmployeePersonalInfo from './Components/Employee/EmployeePersonalInfo';
+import EmployeeOfficeDetails from './Components/Employee/EmployeeOfficeDetails';
+import EmployeeOtherDetails from './Components/Employee/EmployeeOtherDetails';
 
 const Item = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === 'dark' ? '#1A2027' : 'transparent',
